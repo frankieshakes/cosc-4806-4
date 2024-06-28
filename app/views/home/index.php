@@ -11,7 +11,6 @@
 
     <div class="row">
         <div class="col-lg-12">
-            <p> <a href="/logout">Click here to log out</a></p>
         </div>
     </div>
 

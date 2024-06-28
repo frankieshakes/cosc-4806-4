@@ -1,6 +1,8 @@
-<footer class="footer">    
+<footer class="footer mt-5">    
     <div class="row">
         <div class="col-lg-12">
+            <hr class="border-top border-1 border-dark mb-0">
+            <hr class="border-top border-1 border-light-subtle mt-0">
             <p>Copyright &copy; <?php echo date('Y'); ?> </p>
         </div>
     </div>
